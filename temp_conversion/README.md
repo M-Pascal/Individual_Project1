@@ -47,7 +47,7 @@ To run the project on your local machine:
     ```
 3. Navigate to the project directory:
     ```bash
-    cd temperature_converter
+    cd temp_conversion
     ```
 4. Run the app:
     ```bash
