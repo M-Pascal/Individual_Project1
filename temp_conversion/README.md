@@ -107,7 +107,7 @@ These modes are selectable by using radio buttons.
 
 ---
 
-## Conversion Logic
+## Conversion Logic.
 
 The conversion is handled by the `_convert()` method:
 
